@@ -5,7 +5,9 @@
 https://www.python.org/downloads/
 
 git clone https://github.com/m-primo/Facebook_Brute_Force
+
 cd Facebook_Brute_Force
+
 pip install -r pip-reqs.txt
 
 
