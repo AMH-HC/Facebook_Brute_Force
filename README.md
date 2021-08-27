@@ -12,13 +12,13 @@ pip install -r pip-reqs.txt
 
 
 
-python app.py -u <USERNAME/ID/EMAIL/PHONE> -p <PASSWORD_LIST_FILENAME> -l <LOG_FILE_NAME>
+python brute_force.py -u <USERNAME/ID/EMAIL/PHONE> -p <PASSWORD_LIST_FILENAME> -l <LOG_FILE_NAME>
 
-python app.py -u <USERNAME/ID/EMAIL/PHONE> -sp <PASSWORD> -l <LOG_FILE_NAME>
+python brute_force.py -u <USERNAME/ID/EMAIL/PHONE> -sp <PASSWORD> -l <LOG_FILE_NAME>
 
 python brute_force.py -h
 
-python app.py
+python brute_force.py
 
 
 
